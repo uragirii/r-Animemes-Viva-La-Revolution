@@ -82,7 +82,7 @@ def fetchDataReddit(search, typ = "COMMENTS", days = 30, subreddit = "animemes")
         counts.append(data["doc_count"])
     return [counts, dates]
 
-def postFrequency(start=1594339200, end=1597017600, subreddit="animemes"):
+def postFrequency(start=1595280746, end=1597959247, subreddit="animemes"):
     """
     Get frequency of posts and comments from start to end on a 24 hr interval
     @param: start : The start of time period in UNIX Timestamp
@@ -180,9 +180,9 @@ def plotPostAndCommentFrequency(start):
 
 
 def main():
-    plotCommentsQueries(['trans','trap', 'tr*p', 'tr-', 'redacted'])
-    plotPostQueries(['trans','trap', 'tr*p', 'tr-', 'redacted'])
-    plotPostAndCommentFrequency(start=1594339200)
+    # plotCommentsQueries(['trans','trap', 'tr*p', 'tr-', 'redacted'])
+    # plotPostQueries(['trans','trap', 'tr*p', 'tr-', 'redacted'])
+    plotPostAndCommentFrequency(start=1595280746)
 
-if if __name__ == "__main__":
+if __name__ == "__main__":
     main()
