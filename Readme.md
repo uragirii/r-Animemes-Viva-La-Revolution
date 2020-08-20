@@ -40,12 +40,12 @@ But there is a decrease on the last day? Don't let the revolution die guys. Viva
 
 ## What else is interesting?
 
-Mods think that this is just a "phase" and eventually memers will get bored from same format or style. That is why its interesting, I want to see how it ends. Will redditors stop this revolution? Its been a week since it all started. I will try to post an update after more week. Hopefully this will get sorted by then.
+Mods think that this is just a "phase" and eventually memers will get bored from same format or style. That is why its interesting, I want to see how it ends. Will redditors stop this revolution? Its been a week since it all started. I will try to post an update after one more week. Hopefully this will get sorted by then.
 
 ## To - Do
 Some interesting things that can be done:
 
-- Maybe also watch for glided posts? It seems that there is a increase of number of quality posts and thus increase in glided posts.
+- Maybe also watch for gilded posts? It seems that there is a increase of number of quality posts and thus increase in glided posts.
 - Maybe run an OCR on memes itself to see mention of words? Probably very difficult and time consuming.
 - See another similar subreddit revolution from past and compare it?
 
